@@ -5,12 +5,14 @@ Created for the August 2024 Flatiron Data Science Cohort. A collection of insigh
 
 ## Authors
 Miles Cumiskey: https://github.com/mcumiskey
+
 Joey Barilla: https://github.com/JoeyBarlia
 
 ![](images/horizontal_div_left.png)
 
 # Overview
 Presentation: https://github.com/mcumiskey/Aviation-Risk-Analysis/blob/main/Presentations/Phase%201_%20Aviation%20Project.pdf
+
 Tableau: https://public.tableau.com/views/Aviation_Project_17242489618110/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Business Understanding
