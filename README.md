@@ -18,17 +18,29 @@ Tableau: https://public.tableau.com/views/Aviation_Project_17242489618110/Dashbo
 ## Project Structure 
 
 ├── Presentations
+
 │   └── Phase_1_Aviation Project.pdf
+
 ├── data
+
 │   ├── AviationData.csv
+
 │   └── USState_Codes.csv
+
 ├── images
+
 │   ├── airplane-isolated-on-transparent-background-3d-rendering-aircraft-png-2455088391.png
+
 │   ├── horizontal_div_left.png
+
 │   └── horizontal_div_right.png
+
 ├── .DS_Store
+
 ├── .gitignore
+
 ├── README.md
+
 └── aviation analysis conclusion.ipynb
 
 ## Business Understanding
