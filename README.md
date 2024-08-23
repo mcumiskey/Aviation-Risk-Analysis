@@ -18,6 +18,8 @@ Tableau: https://public.tableau.com/views/Aviation_Project_17242489618110/Dashbo
 ## Project Structure 
 ```
 ├── Presentations
+│   ├── notebook.pdf
+│   ├── github.pdf
 │   └── Phase_1_Aviation Project.pdf
 ├── data
 │   ├── AviationData.csv
