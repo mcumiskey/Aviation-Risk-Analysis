@@ -15,6 +15,22 @@ Presentation: https://github.com/mcumiskey/Aviation-Risk-Analysis/blob/main/Pres
 
 Tableau: https://public.tableau.com/views/Aviation_Project_17242489618110/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+## Project Structure 
+
+├── Presentations
+│   └── Phase_1_Aviation Project.pdf
+├── data
+│   ├── AviationData.csv
+│   └── USState_Codes.csv
+├── images
+│   ├── airplane-isolated-on-transparent-background-3d-rendering-aircraft-png-2455088391.png
+│   ├── horizontal_div_left.png
+│   └── horizontal_div_right.png
+├── .DS_Store
+├── .gitignore
+├── README.md
+└── aviation analysis conclusion.ipynb
+
 ## Business Understanding
 A company is interested in purchasing and operating airplanes for commercial and private enterprises, but they do not know anything about the potential risks of aircraft. 
 
