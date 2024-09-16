@@ -1,7 +1,8 @@
 
 ![](images/horizontal_div_right.png)
 # Aviation-Risk-Analysis
-Created for the August 2024 Flatiron Data Science Cohort. A collection of insights for a company looking to break into the public and private aviation buisness, focusing on determining which models had the least injuries and fatalities in event of a crash. 
+A collection of insights for a company looking to break into the public and private aviation buisness, focusing on determining which models had the least injuries and fatalities in event of a crash. 
+Created for the August 2024 Flatiron Data Science Cohort. 
 
 ## Authors
 Miles Cumiskey: https://github.com/mcumiskey
